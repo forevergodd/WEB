@@ -1,0 +1,68 @@
+body{
+
+}
+.photo1{
+    margin-top: 5px;
+    margin-left: 20px;
+    height: 300px;
+    width: 540px;
+    background-image: url("photo1.jpg");
+    background-repeat: no-repeat;
+    background-size: 540px 300px;
+    float:left;
+}
+.photo2{
+    margin-top: 5px;
+    margin-left: 20px;
+    height: 300px;
+    width: 540px;
+    background-image: url("photo2.jpg");
+    background-repeat: no-repeat;
+    background-size: 540px 300px;
+    float:left;
+}
+.photoshow{
+    background-color: bisque;
+    width: 1140px;
+    height: 400px;
+    float:left;
+}
+.aside{
+    margin-left: 1140px;
+    background-color: aqua;
+    height: 1000px;
+    width: 200px;
+}
+.article1{
+    text-align: center;
+}.article2{
+    text-align: center;
+}
+ .hide1{
+
+     float: bottom;
+     margin-top: 10px;
+    margin-left: 60px;
+
+ }
+ .show1{
+
+     float:bottom;
+     margin-top: 10px;
+     margin-left: 60px;
+
+ }
+.hide2{
+
+    float: bottom;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+.show2{
+
+    float:bottom;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
