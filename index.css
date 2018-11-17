@@ -64,5 +64,82 @@ body{
     float:bottom;
     margin-top: 10px;
     margin-left: 60px;
-
+}
+.school{
+    width: 1140px;
+    height: 1000px;
+    background-color: chartreuse;
+    float: left;
+}
+.jianzhu{
+    background-image: url("jianzhu.jpg");
+    background-repeat: no-repeat;
+    background-size: 360px 450px;
+    float: left;
+    width: 360px;
+    height: 450px;
+    margin-left: 15px;
+}
+.keda{
+    background-image: url("keda.jpg");
+    background-repeat: no-repeat;
+    background-size: 360px 450px;
+    margin-left: 15px;
+    float: left;
+    width: 360px;
+    height: 450px;
+}
+.qinghua{
+    background-image: url("qinghua.jpg");
+    background-repeat: no-repeat;
+    background-size: 360px 450px;
+    margin-left: 15px;
+    float: left;
+    width: 360px;
+    height: 450px;
+}
+.b1{
+    width: 1140px;
+    height: 50px;
+    float: left;
+    margin-top: 0px;
+}
+.b11{
+    margin-left: 195px;
+    float: left;
+}
+.b12{
+    margin-left: 380px;
+    float: left;
+}
+.b13{
+    margin-left: 60px;
+    float: left;
+}
+.anda{
+    background-image: url("anda.jpg");
+    background-repeat: no-repeat;
+    background-size: 360px 450px;
+    margin-left: 15px;
+    float: left;
+    width: 360px;
+    height: 450px;
+}
+.beida{
+    background-image: url("beida.jpg");
+    background-repeat: no-repeat;
+    background-size: 360px 450px;
+    margin-left: 15px;
+    float: left;
+    width: 360px;
+    height: 450px;
+}
+.zheda{
+    background-image: url("zheda.jpg");
+    background-repeat: no-repeat;
+    background-size: 360px 450px;
+    margin-left: 15px;
+    float: left;
+    width: 360px;
+    height: 450px;
 }
